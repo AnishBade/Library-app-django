@@ -1,0 +1,5 @@
+virtualenv used : django-api-library
+superuser: username: anish
+            password: anish
+            email : anish@anish.com
+            

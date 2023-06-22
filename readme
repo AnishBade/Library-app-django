@@ -1,5 +1,8 @@
 virtualenv used : django-api-library
 superuser: username: anish
-            password: anish
-            email : anish@anish.com
-            
+password: anish
+email : anish@anish.com
+
+deployed through: https://railway.app/project/08d40d71-04d7-4995-90b0-b130c95b1b61/service/e72f38e1-1abf-479d-97ef-22fbdd9077ee/settings
+
+deployed website for this project : https://web-production-ab8d.up.railway.app/api/
